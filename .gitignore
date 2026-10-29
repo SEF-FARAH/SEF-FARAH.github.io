@@ -1,0 +1,9 @@
+# Documents personnels : ne jamais publier sur GitHub
+*.docx
+*.pdf
+infos-entreprise.md
+
+# Fichiers de travail
+logo-propositions.html
+.decibel/
+.claude/

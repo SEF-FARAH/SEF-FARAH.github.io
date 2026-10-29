@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sef-farah.github.io/sitemap.xml
