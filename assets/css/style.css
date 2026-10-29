@@ -218,9 +218,10 @@ a:hover { color: var(--navy-3); }
   line-height: 1.12;
   margin: 0 0 22px;
   color: var(--white);
-  max-width: 17ch;
+  max-width: 22ch;
   letter-spacing: -0.01em;
 }
+.hero h1 .h1-role { display: block; color: var(--cyan); }
 
 .hero-lead {
   font-size: clamp(1.05rem, 2.2vw, 1.25rem);
